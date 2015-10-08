@@ -1,2 +1,3 @@
 # hello-world
-ilk hello world denemesi
+ilk hello world denemesi gerçekleştirildi. 
+tebrikler.
